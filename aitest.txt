@@ -40,10 +40,16 @@ How to Learn:
 NIST SP 800-115: Download and read the NIST SP 800-115 guide, which provides an in-depth look at planning and conducting penetration testing in a secure and effective way. You can find it here.
 Cybersecurity Framework (CSF): Familiarize yourself with NIST’s broader Cybersecurity Framework by visiting the NIST CSF page at NIST CSF.
 Practical Experience: To fully understand the NIST framework, you’ll need to apply the principles through real-world penetration tests or virtual labs.
+Website: https://www.hackthebox.eu
+https://www.tryhackme.com
+https://www.vulnhub.com
+https://www.offensive-security.com/labs/
+
 3. Practical Application and Hands-On Labs
 Learning penetration testing methodologies through reading is essential, but practice is equally important. Set up environments where you can simulate and test the vulnerabilities identified in the above frameworks.
 
 Tools for Hands-On Learning:
+Scapy
 Kali Linux: This penetration testing-focused Linux distribution contains many useful tools for practicing ethical hacking.
 Vulnerable Applications: Set up vulnerable web applications for hands-on practice (e.g., OWASP Juice Shop, DVWA, Mutillidae).
 Virtual Machines: Use VMs or cloud environments like AWS or Azure to safely perform penetration tests in isolated environments without affecting real-world systems.
